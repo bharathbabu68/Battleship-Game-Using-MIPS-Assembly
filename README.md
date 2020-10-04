@@ -12,8 +12,10 @@ Just a simple game of battleships implemented using MIPS Assembly language in th
 - Java Runtime Environment
 
 # Screenshots
-![alt text](https://github.com/bharathbabu68/Battleship-Game-Using-MIPS-Assembly/blob/master/Picture1.png)
+- While starting the game
+![alt text](https://github.com/bharathbabu68/Battleship-Game-Using-MIPS-Assembly/blob/master/start.PNG)
 
-![alt text](https://github.com/bharathbabu68/Battleship-Game-Using-MIPS-Assembly/blob/master/Picture2.png)
+- While finishing the game
+![alt text](https://github.com/bharathbabu68/Battleship-Game-Using-MIPS-Assembly/blob/master/end.PNG)
 
 - Once the game is over, the user has the option to decide whether to play another round or not.
